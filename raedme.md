@@ -4,12 +4,12 @@
 
 ## ✨ Features
 
-✅ Remove extra line breaks  
-✅ Strip emojis
-✅ Convert smart quotes to straight quotes  
-✅ Trim whitespace and tidy up text  
-✅ Copy cleaned result with one click  
-✅ 100% offline – your text never leaves your browser
+✅ Remove extra line breaks  <br>
+✅ Strip emojis <br>
+✅ Convert smart quotes to straight quotes   <br>
+✅ Trim whitespace and tidy up text   <br>
+✅ Copy cleaned result with one click   <br>
+✅ 100% offline – your text never leaves your browser <br>
 
 ## 🔧 How to Install (Temporary Dev Mode)
 
